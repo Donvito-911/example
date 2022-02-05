@@ -1,6 +1,7 @@
 function someFunc(){
-    const server = true;
+    const server = false;
+    console.log("MORE CHANGES FROM TICKET 4!!!");
     return null;
-    // LETS DO SOME CHANGES IN SERVER JS
-    
+    // CHANGES FROM SERVER JS IN TICKET 4
+
 };
